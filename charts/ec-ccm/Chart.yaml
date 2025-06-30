@@ -1,6 +1,6 @@
 apiVersion: v2
 name: ec-ccm
-description: Edgecenter Cloud Controller Manager
+description: A Helm chart for Edgecenter Cloud Controller Manager
 type: application
 version: 1.0.2
 appVersion: "v1.0.1"
